@@ -10,5 +10,17 @@
         "company": "Space-O Technologies",
         "position": "Software Engineer",
         "description": "Generate Restful API with swagger documentation. Also build small frontend-backend modules."
+    },
+    {
+        "period": "May-2021 to August-2022",
+        "company": "Rainstreamweb",
+        "position": "Software Developer",
+        "description": "Developed and customize software for diverse client base. Successfully generated back-end programming utilizing Laravel framework."
+    },
+    {
+        "period": "May 2020 to May-2021",
+        "company": "Freelancer",
+        "position": "Web Developer",
+        "description": "Developed and customize software for diverse client base. Successfully generated back-end programming utilizing Java, Spring MVC, Hibernate framework. Using JSP for front-end, html and javascript. Build REST full API with MySQL database.."
     }
 ]
